@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yusufalfi
 - 👀 I’m interested in web programming
-- 📫 yusufalfi91@gmail.com. 
+- 📫 yusufalfi91@gmail.com
 
 <!---
 Yusufalfi/Yusufalfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
