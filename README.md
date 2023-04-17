@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Yusufalfi
-- 👀 I’m interested in web programming
-- 📫 yusufalfi91@gmail.com
+# Hi there 👋
+I hope you can find useful stuff here 😉
 
-<!---
-Yusufalfi/Yusufalfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+### 🔭 I’m currently working as: 
+- Front End Developer 
+- Sometimes Back End Devloper
+
+
+### 📫 How to reach me: 
+- [linkedin](https://www.linkedin.com/in/yusuf-alfi/)
+- [email](mailto:yusufalfi91@gmail.com)
+- [web profile](https://portfolio-yusufalfi.vercel.app/)
